@@ -26,7 +26,9 @@ Jouw team ontwikkelt werkende prototypes van een grafische en auditieve interfac
 Je ontwerpt voor een **touch interface** op een **tablet**, bijvoorbeeld een iPad. 
 
 Het lectoraat ontwikkelt de API voor Hitloop. 
+
 Prototype [https://hitloop.responsible-it.nl/](https://hitloop.responsible-it.nl/)
+
 Thunderboom [https://www.thunderboomrecords.com/](https://www.thunderboomrecords.com/)
 
 
