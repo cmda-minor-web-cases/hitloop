@@ -39,6 +39,7 @@ Thunderboom [https://www.thunderboomrecords.com/](https://www.thunderboomrecords
 - Als gebruiker kan ik een vooraf door AI ingevulde sequentie inladen en aanpassen. - Als gebruiker kan ik het tempo van de sequentie aan kunnen passen. - Als gebruiker kan ik de geluiden van verschillende tracks aanpassen.	
 - Als gebruiker kan ik de loop starten, stoppen en pauzeren.
 - Als gebruiker kan ik mijn creatie resetten.
+- Als gebruiker kan ik Hitloop bedienen op een tablet.
 - Als gebruiker kan ik de URL met anderen delen.
 ## Data
 ...
